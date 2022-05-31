@@ -1,0 +1,9 @@
+flake8==4.0.1
+mccabe==0.6.1
+pyaes==1.6.1
+pycodestyle==2.8.0
+pyfiglet==0.8.post1
+pyflakes==2.4.0
+Pyrogram==2.0.16
+PySocks==1.7.1
+TgCrypto==1.2.3
