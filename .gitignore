@@ -104,3 +104,4 @@ dist
 # TernJS port file
 .tern-port
 cv-scrapper/.DS_Store
+.DS_Store
